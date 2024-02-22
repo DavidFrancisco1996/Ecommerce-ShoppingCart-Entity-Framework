@@ -173,9 +173,6 @@ This role is assigned to users who have full control over the app. You can view,
 |   2 |                _Angular_ [](https://angular.io/)                | 15.0    |
 |   3 | _Angular Material_ [](https://material.angular.io/)             | 14.0     |
 
-## Contact
-
-<a href="https://varunbr.github.io">Contact</a>
 
 ## Acknowledgements
 
